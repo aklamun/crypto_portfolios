@@ -1,3 +1,3 @@
 # README #
 
-Project to construct stable portfolios of cryptocurrencies
+An old project to construct diversified portfolios of cryptocurrencies. Here for reference.
